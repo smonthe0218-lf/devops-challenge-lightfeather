@@ -1,5 +1,5 @@
 ### **Devops-Challenge-LightFeather**
-This is the updated backend and frontend project. Few modifications were done to the backend and front end configuration.
+This is the updated backend and frontend project. Few modifications were done to the backend and front end configuration. Docker Compose was utilized to orchestrate container builds and deployments.
 
 ### **Backend**
 An environment variable FRONT_URL was added to the docker image and the update was made to the config file:
